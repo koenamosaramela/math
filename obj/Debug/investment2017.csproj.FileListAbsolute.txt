@@ -1,0 +1,8 @@
+C:\Users\mosar\Documents\programms\investment2017\bin\Debug\investment2017.exe.config
+C:\Users\mosar\Documents\programms\investment2017\bin\Debug\investment2017.exe
+C:\Users\mosar\Documents\programms\investment2017\bin\Debug\investment2017.pdb
+C:\Users\mosar\Documents\programms\investment2017\obj\Debug\investment2017.csproj.AssemblyReference.cache
+C:\Users\mosar\Documents\programms\investment2017\obj\Debug\investment2017.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosar\Documents\programms\investment2017\obj\Debug\investment2017.csproj.CoreCompileInputs.cache
+C:\Users\mosar\Documents\programms\investment2017\obj\Debug\investment2017.exe
+C:\Users\mosar\Documents\programms\investment2017\obj\Debug\investment2017.pdb
